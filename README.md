@@ -15,22 +15,22 @@ if not, we provided install command in our notebooks.
 
 Required Libraries:
 
-torch>=1.1<br />
-torchvision>=0.3<br />
-numpy<br />
-opencv-python<br />
-tqdm>=4.36.0<br />
-matplotlib<br />
-plotly<br />
-scipy<br />
-h5py<br />
-pycolmap>=0.3.0<br />
-kornia>=0.6.11<br />
-gdown<br />
-lightglue @ git+https://github.com/cvg/LightGlue<br />
-iglovikov_helper_functions<br />
-check_orientation<br />
-kornia<br />
+torch>=1.1\
+torchvision>=0.3\
+numpy\
+opencv-python\
+tqdm>=4.36.0\
+matplotlib\
+plotly\
+scipy\
+h5py\
+pycolmap>=0.3.0\
+kornia>=0.6.11\
+gdown\
+lightglue @ git+https://github.com/cvg/LightGlue\
+iglovikov_helper_functions\
+check_orientation\
+kornia\
 
 ## Usage
 
