@@ -31,7 +31,7 @@ lightglue @ git+https://github.com/cvg/LightGlue
 \
 iglovikov_helper_functions\
 check_orientation\
-kornia\
+kornia
 
 ## Usage
 
