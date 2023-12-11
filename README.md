@@ -13,6 +13,25 @@ In computer vision, graphics, and robotics, reconstructing 3D scenes from 2D pho
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all libraries listed in the requirement,
 if not, we provided install command in our notebooks.
 
+Required Libraries:
+
+torch>=1.1
+torchvision>=0.3
+numpy
+opencv-python
+tqdm>=4.36.0
+matplotlib
+plotly
+scipy
+h5py
+pycolmap>=0.3.0
+kornia>=0.6.11
+gdown
+lightglue @ git+https://github.com/cvg/LightGlue
+iglovikov_helper_functions
+check_orientation
+kornia
+
 ## Usage
 
 For usage of 3D_library.ipynb and benchmark_experiments.ipynb, refer to the hierarchical localization (https://github.com/cvg/Hierarchical-Localization) for detailed function uses
