@@ -27,7 +27,6 @@ h5py\
 pycolmap>=0.3.0\
 kornia>=0.6.11\
 gdown\
-
 lightglue @ git+https://github.com/cvg/LightGlue
 \
 iglovikov_helper_functions\
