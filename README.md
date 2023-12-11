@@ -15,7 +15,7 @@ if not, we provided install command in our notebooks.
 
 ## Usage
 
-We 
+For usage of 3D_library.ipynb and benchmark_experiments.ipynb, refer to the hierarchical localization (https://github.com/cvg/Hierarchical-Localization) for detailed function uses
 
 ## Contributing
 
