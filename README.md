@@ -1,4 +1,4 @@
-# CS581-Final-Project
+# CIS581-Final-Project
 
 # Project Name
 
